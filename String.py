@@ -26,7 +26,7 @@ print(x)
 
 #extend()
 fruits = ['apple','jackfruit','strawberry']
-cars = ['Volvo','BMW','Audi']
+cars = ['Volvo']
 fruits.extend(cars)
 print(fruits)
 
